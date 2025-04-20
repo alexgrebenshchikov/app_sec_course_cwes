@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="facebook.presto.hadoop.cdh4" type="repository">
+    <properties maven-id="com.facebook.presto.hadoop:hadoop-cdh4:4.7.1-1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/facebook/presto/hadoop/hadoop-cdh4/4.7.1-1/hadoop-cdh4-4.7.1-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
